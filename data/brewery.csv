@@ -1,0 +1,458 @@
+"type","ABV","Rating","NReviews","brewery","name","LocationProvince","LocationCity","country","Seasonal","IBU","address","lon","lat"
+"Saison / Farmhouse Ale",7.3,65.8,6,"33 acres","of Axel M","British Columbia","Vancouver","Canada","Special",44,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Cider",6.9,61.4,6,"33 acres","of Cid3r","British Columbia","Vancouver","Canada","Special",NA,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Extra Special Bitter",5.6,67.1428571428571,7,"33 acres","of Courage","British Columbia","Vancouver","Canada","Spring",50,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Schwarzbier",5,72.4458333333333,12,"33 acres","of Darkness","British Columbia","Vancouver","Canada",NA,30,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Tripel",9.2,64,8,"33 acres","of Euphoria (fka Vloer)","British Columbia","Vancouver","Canada","Special",30,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"California Common / Steam Beer",4.8,65.2,23,"33 acres","of Life California Common","British Columbia","Vancouver","Canada",NA,40,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Saison / Farmhouse Ale",7.6,65,7,"33 acres","of Merckx","British Columbia","Vancouver","Canada",NA,33,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Imperial India Pale Ale",8,67.6,12,"33 acres","of Nirvana","British Columbia","Vancouver","Canada","Special",70,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Pale Ale",5.3,66.6,25,"33 acres","of Ocean APA","British Columbia","Vancouver","Canada",NA,50,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Ale",5.5,67.9,9,"33 acres","of Schol","British Columbia","Vancouver","Canada","Special",22,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Pilsner",5.5,65.2,6,"33 acres","of Solstice","British Columbia","Vancouver","Canada","Summer",38,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Hefeweizen",5,62.4,17,"33 acres","of Sunshine French-style Wheat Ale","British Columbia","Vancouver","Canada",NA,14,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"California Common / Steam Beer",NA,70.75,15,"33 acres","33 Acres Of Life","British Columbia","Vancouver","Canada",NA,NA,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Pale Ale",NA,72,21,"33 acres","33 Acres Of Ocean","British Columbia","Vancouver","Canada",NA,NA,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Hefeweizen",NA,69.75,12,"33 acres","33 Acres Of Sunshine","British Columbia","Vancouver","Canada",NA,NA,"15 W 8th Ave, Vancouver, BC V5Y 1M8, Canada",-123.1053533,49.2637804
+"Sak - Genshu",17,75.4,6,"artisan sakemaker studio","Osake Junmai Ginjo Genshu","British Columbia","Vancouver","Canada",NA,NA,"1339 Railspur Alley, Vancouver, BC, Canada",-123.1338519,49.2701521
+"Sak - Genshu",18,67.2,10,"artisan sakemaker studio","Osake Junmai Nama Genshu Sake","British Columbia","Vancouver","Canada",NA,NA,"1339 Railspur Alley, Vancouver, BC, Canada",-123.1338519,49.2701521
+"Sak - Nigori",14,73.8,9,"artisan sakemaker studio","Osake Junmai Nama Nigori Sake","British Columbia","Vancouver","Canada",NA,NA,"1339 Railspur Alley, Vancouver, BC, Canada",-123.1338519,49.2701521
+"Sak - Junmai",15,69.4,9,"artisan sakemaker studio","Osake Junmai Nama Sake","British Columbia","Vancouver","Canada",NA,NA,"1339 Railspur Alley, Vancouver, BC, Canada",-123.1338519,49.2701521
+"Sak - Junmai",13.5,69.8,8,"artisan sakemaker studio","Osake Junmai Sparkling Sake","British Columbia","Vancouver","Canada",NA,NA,"1339 Railspur Alley, Vancouver, BC, Canada",-123.1338519,49.2701521
+"Extra Special Bitter",NA,63.0333333333333,9,"big ridge","ESB","British Columbia","Surrey","Canada","Special",NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"India Pale Ale",6.3,68,7,"big ridge","Big Ridge Clover Ale (2010 - )","British Columbia","Surrey","Canada",NA,NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Cream Ale",NA,44.4,6,"big ridge","Big Ridge Cream Ale","British Columbia","Surrey","Canada","Winter",NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Pale Lager",4.5,50.2,8,"big ridge","Big Ridge Harvest Lager","British Columbia","Surrey","Canada",NA,NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Imperial Stout",9,78,6,"big ridge","Big Ridge Imperial Khan-Quest","British Columbia","Surrey","Canada","Winter",NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Porter",4.8,61.4,12,"big ridge","Big Ridge Old Sullivan Porter","British Columbia","Surrey","Canada",NA,NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Premium Lager",NA,61.8,6,"big ridge","Red Truck Lager","British Columbia","Surrey","Canada",NA,NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Amber / Red Ale",5,62,6,"big ridge","Big Ridge Rodeo Red","British Columbia","Surrey","Canada",NA,NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"India Pale Ale",6.3,71.4,6,"big ridge","Big Ridge Wrath of Khan IPA","British Columbia","Surrey","Canada",NA,NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Amber / Red Ale",NA,72.25,6,"big ridge","Red Truck Ale","British Columbia","Surrey","Canada",NA,NA,"5580 152 St, Surrey, BC V3S 5J9, Canada",-122.800513,49.1038091
+"Stout",4.5,73,8,"big rock urban","Big Rock Chocolate Malt Stout","British Columbia","Vancouver","Canada",NA,14,"310 W 4th Ave, Vancouver, BC V5Y 1G9, Canada",-123.110776,49.2674915
+"Premium Lager",5.5,70,16,"big rock urban","Big Rock Mosaic Lager","British Columbia","Vancouver","Canada",NA,40,"310 W 4th Ave, Vancouver, BC V5Y 1G9, Canada",-123.110776,49.2674915
+"Amber / Red Ale",5.8,55.2,7,"big rock urban","Big Rock Urban Hollow Tree Pacific Northwest Red","British Columbia","Vancouver","Canada",NA,55,"310 W 4th Ave, Vancouver, BC V5Y 1G9, Canada",-123.110776,49.2674915
+"India Pale Ale",6.2,63.02,10,"black kettle","IPA","British Columbia","North Vancouver","Canada",NA,NA,"720 Copping St #106, North Vancouver, BC V7M 3N2, Canada",-123.0926338,49.3166317
+"Pale Ale",4.5,65.2666666666667,9,"black kettle","Black Kettle Pale Ale","British Columbia","North Vancouver","Canada",NA,NA,"720 Copping St #106, North Vancouver, BC V7M 3N2, Canada",-123.0926338,49.3166317
+"Golden Ale/Blond Ale",5,54.4583333333333,12,"bomber","Blond","British Columbia","Vancouver","Canada",NA,NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Black India Pale Ale",6.5,69.6,11,"bomber","Bomber Absolute Horizon","British Columbia","Vancouver","Canada","Special",NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Bitter",3.9,65.26,15,"bomber","Bike Route Best Bitter","British Columbia","Vancouver","Canada","Summer",NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"India Pale Ale",6.7,64.4,26,"bomber","Bomber Blood From a Stone Red Rye IPA","British Columbia","Vancouver","Canada","Special",60,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Porter",5.5,63.8,8,"bomber","Bomber Choqlette Chocolate Porter","British Columbia","Vancouver","Canada","Special",NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Extra Special Bitter",5.2,62.4239669421488,121,"bomber","ESB","British Columbia","Vancouver","Canada",NA,45,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Spice/Herb/Vegetable/Gruit",5.8,64.65,6,"bomber","I, Braineater","British Columbia","Vancouver","Canada","Autumn",20,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"India Pale Ale",6.3,60,13,"bomber","Bomber IPA","British Columbia","Vancouver","Canada",NA,65,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Oktoberfest/Mrzen",5.5,52.6,7,"bomber","Bomber Marzen","British Columbia","Vancouver","Canada","Spring",20,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Strong Ale",8,60.1428571428571,7,"bomber","Old Fat Heater Winter Ale","British Columbia","Vancouver","Canada","Winter",NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Stout",6,67.3714285714286,14,"bomber","Bomber Shutout Oatmeal Stout","British Columbia","Vancouver","Canada",NA,NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Imperial India Pale Ale",7.5,69.2615384615385,13,"bomber","Superpest Double IPA","British Columbia","Vancouver","Canada","Summer",80,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Imperial India Pale Ale",NA,63.25,21,"bomber","IPA","British Columbia","Vancouver","Canada",NA,NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Pilsner",NA,61.25,15,"bomber","Pilsner","British Columbia","Vancouver","Canada",NA,NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Black Ale",NA,77.5,8,"bomber","Absolute Horizon","British Columbia","Vancouver","Canada",NA,NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"India Pale Ale",NA,74,9,"bomber","Blood From A Stone - Red Rye IPA","British Columbia","Vancouver","Canada",NA,NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Stout",NA,65.5,8,"bomber","Shut Out Stout","British Columbia","Vancouver","Canada",NA,NA,"1488 Adanac St, Vancouver, BC V5L 3J7, Canada",-123.074588,49.2774031
+"Porter",10,79.2222222222222,9,"brassneck","Cold War","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Black India Pale Ale",4.2,70,7,"brassneck","Gigantic Attention Seeker","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Weizenbock",7,62.0714285714286,7,"brassneck","Brassneck / Occidental Weizenbock","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Pale Ale",5,62.4,14,"brassneck","Brassneck Ale","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Saison / Farmhouse Ale",5.5,62,6,"brassneck","Brassneck Barn Burner Black Saison","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",6,73,8,"brassneck","Brassneck Changeling (Gerwurztraminer Grape Must)","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",6,77.6,9,"brassneck","Brassneck Changeling (Peach)","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",6,72.4,9,"brassneck","Brassneck Changeling (Raspberry)","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",6,66,8,"brassneck","Brassneck Changeling (Viognier Grape Must)","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Pale Strong Ale",9,63.4,10,"brassneck","Brassneck Cherubesque","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Porter",7,72,7,"brassneck","Brassneck Dark Place","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Altbier",5,68,7,"brassneck","Brassneck Dead Pan Alt","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Stout",3.8,64.4857142857143,7,"brassneck","Fall Back","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Ale",5.5,64.35,11,"brassneck","Identity Crisis","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Imperial Stout",9,75.6,12,"brassneck","Brassneck Inertia II Bourbon Barrel Aged Imperial Stout","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Imperial Stout",9,75.5,14,"brassneck","Inertia Imperial Stout","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Saison / Farmhouse Ale",5,67,12,"brassneck","Brassneck Joe s Barn Farmhouse Saison","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Stout",6,70.4384615384615,13,"brassneck","Killjoy","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Kolsch",5,63.8,9,"brassneck","Brassneck Klutz Kolsch","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Amber / Red Ale",6.5,69.1735294117647,17,"brassneck","Magic Beans","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",6,75,6,"brassneck","Brassneck Magician s Assistant","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Imperial India Pale Ale",9,73,6,"brassneck","Brassneck Massive Aggressive","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Amber / Red Ale",5,66.46875,8,"brassneck","Mr. Personality","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Wheat Ale",5,63.2,7,"brassneck","Brassneck Multiweizen 5 Grain Weisse Beer","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Bitter",5,63.4166666666667,6,"brassneck","Old Bitch","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Porter",5,65.6,6,"brassneck","Brassneck Old Geezer Dry English Porter","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Imperial India Pale Ale",9,76.3257575757576,33,"brassneck","One Trick Pony","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"India Pale Ale",7,72.4,17,"brassneck","Brassneck Passive Aggressive Pale Ale","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Saison / Farmhouse Ale",4.5,63,11,"brassneck","Brassneck Small Wonder Table Saison","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Barley Wine",10,70.3214285714286,7,"brassneck","Spirit Animal","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"India Pale Ale",6.8,75.3785714285714,7,"brassneck","Spirit Of Dixmas","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Hefeweizen",5,61.1714285714286,14,"brassneck","Brassneck Staircase Wit","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Saison / Farmhouse Ale",6.5,62.4,7,"brassneck","Brassneck Sticks & Stones","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Saison / Farmhouse Ale",6.5,68.6769230769231,13,"brassneck","Brassneck Stockholm Syndrome","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Pale Ale",5.5,66.6,10,"brassneck","Brassneck Ten Times Ten","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Hefeweizen",5,58.2,7,"brassneck","Brassneck Umlaut!","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Pale Ale",5.5,74,7,"brassneck","Brassneck Wingman (Amarillo & Citra)","British Columbia","Vancouver","Canada","Series",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Pale Ale",5.5,73,6,"brassneck","Brassneck Wingman (Citra & Galaxy)","British Columbia","Vancouver","Canada","Special",NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"India Pale Ale",NA,72.5,11,"brassneck","Free Radical","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Imperial Stout",NA,69,11,"brassneck","Inertia","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Kolsch",NA,67.75,6,"brassneck","Klutz Kolsch","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Pale Ale",NA,75.25,22,"brassneck","Passive Aggressive","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",NA,80.25,7,"brassneck","Peach Changeling","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",NA,81.5,8,"brassneck","Raspberry Changeling","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Lambic & Geuze",NA,72.25,8,"brassneck","Sour Cherry Changeling","British Columbia","Vancouver","Canada",NA,NA,"2148 Main St, Vancouver, BC V5T 3C5, Canada",-123.1005746,49.2657891
+"Stout",5,64.4,12,"bridge","Bridge All Out Stout","British Columbia","North Vancouver","Canada",NA,NA,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"Black India Pale Ale",5.8,66.275,8,"bridge","Bridge Black Rye IPA","British Columbia","North Vancouver","Canada",NA,68,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"Berliner Weissbier",2.8,63.225,8,"bridge","Bridge Br cke Berliner Weisse","British Columbia","North Vancouver","Canada","Spring",1,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"India Pale Ale",6,62.86875,32,"bridge","Hopilano IPA","British Columbia","North Vancouver","Canada",NA,59,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"Pale Ale",5.6,63.6,19,"bridge","Bridge North Shore Pale","British Columbia","North Vancouver","Canada",NA,27,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"Spice/Herb/Vegetable/Gruit",6.5,63.078125,64,"bridge","The Grinch","British Columbia","North Vancouver","Canada","Winter",20,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"Stout",NA,70.75,7,"bridge","All Out Stout","British Columbia","North Vancouver","Canada",NA,NA,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"Pale Ale",NA,65.25,10,"bridge","North Shore Pale Ale","British Columbia","North Vancouver","Canada",NA,NA,"1448 Charlotte Rd, North Vancouver, BC V7J 1H2, Canada",-123.0338694,49.3099714
+"Pale Ale",5,59.6,17,"central city brewers distillers","Central City / Elysian I-5 Amarillo Ale","British Columbia","Surrey","Canada","Special",35,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Strong Ale",9.5,77.6,30,"central city brewers distillers","Central City / Flying Monkeys Red on Red Imperial Red Ale","British Columbia","Surrey","Canada","Special",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Pale Ale",6,71.8,9,"central city brewers distillers","Central City / Four Winds Maiden Voyage Cedar Aged Extra Pale Ale","British Columbia","Surrey","Canada","Special",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Imperial India Pale Ale",NA,76.2,8,"central city brewers distillers","Central City / Ninkasi / Gigantic / Parallel 49 Both Barrels Imperial IPA","British Columbia","Surrey","Canada","Special",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Dubbel",6.5,61,10,"central city brewers distillers","Central City / Parallel 49 Rum & Raisin Dubble Trubble","British Columbia","Surrey","Canada",NA,NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Saison / Farmhouse Ale",6,60.6,22,"central city brewers distillers","Central City Detective Saison","British Columbia","Surrey","Canada","Special",55,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Imperial Porter",9,70.6658227848101,79,"central city brewers distillers","Central City Imperial Porter","British Columbia","Surrey","Canada","Special",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Imperial Stout",9,68.8,7,"central city brewers distillers","Central City Imperial Stout","British Columbia","Surrey","Canada",NA,NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Amber / Red Ale",5,53,20,"central city brewers distillers","Central City Maple Bacon Breakfast Ale","British Columbia","Surrey","Canada","Special",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Amber / Red Ale",5,56.9185185185185,27,"central city brewers distillers","Central City Red Racer Copper Ale","British Columbia","Surrey","Canada","Special",23,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Stout",6,69,21,"central city brewers distillers","Central City Red Racer Gingerhead Gingerbread Stout","British Columbia","Surrey","Canada","Special",55,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Imperial India Pale Ale",9,74.6,154,"central city brewers distillers","Central City Red Racer Imperial IPA (Red Betty)","British Columbia","Surrey","Canada","Special",90,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Imperial India Pale Ale",9,76,7,"central city brewers distillers","Central City Red Racer Imperial IPA for Autism","British Columbia","Surrey","Canada","Special",40,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"India Pale Ale",6.5,75.4,511,"central city brewers distillers","Central City Red Racer India Pale Ale","British Columbia","Surrey","Canada",NA,80,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Ale",5.5,71.8,122,"central city brewers distillers","Central City Red Racer India Style Red Ale","British Columbia","Surrey","Canada",NA,NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"India Pale Ale",4,68.2,110,"central city brewers distillers","Central City Red Racer ISA","British Columbia","Surrey","Canada",NA,40,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Pale Ale",5,67,161,"central city brewers distillers","Central City Red Racer Pale Ale","British Columbia","Surrey","Canada",NA,50,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Pilsner",5,64,52,"central city brewers distillers","Central City Red Racer Pilsner","British Columbia","Surrey","Canada","Special",30,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Spice/Herb/Vegetable/Gruit",5,62.4,59,"central city brewers distillers","Central City Red Racer Pumpkin Ale","British Columbia","Surrey","Canada","Autumn",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Radler/Shandy",5,56.6,24,"central city brewers distillers","Central City Red Racer Raspberry Wheat Ale","British Columbia","Surrey","Canada",NA,NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Stout",4.2,59.9275862068966,58,"central city brewers distillers","Central City Red Racer Stout","British Columbia","Surrey","Canada","Summer",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Hefeweizen",5,61.49,80,"central city brewers distillers","Central City Red Racer White Ale","British Columbia","Surrey","Canada",NA,NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Strong Ale",7,61.6,32,"central city brewers distillers","Central City Red Racer Winter Ale","British Columbia","Surrey","Canada","Winter",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Pale Strong Ale",9.5,62.4,20,"central city brewers distillers","Central City The Hobbit: Bolg Belgian Style Tripel","British Columbia","Surrey","Canada","Series",35,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Pilsner",5,56.8,18,"central city brewers distillers","Central City The Hobbit: Gollum Precious Pils","British Columbia","Surrey","Canada","Series",30,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Imperial Stout",8.5,69.4,23,"central city brewers distillers","Central City The Hobbit: Smaug Stout","British Columbia","Surrey","Canada","Special",65,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Barley Wine",10.875,71.9555555555555,81,"central city brewers distillers","Central City Thor s Hammer Barley Wine","British Columbia","Surrey","Canada","Special",NA,"11411 Bridgeview Dr, Surrey, BC V3R 2N1, Canada",-122.8637738,49.2099613
+"Dortmunder/Helles",5.25,58.3854166666667,24,"coal harbour","311 Helles Lager","British Columbia","Vancouver","Canada",NA,NA,"1967 Triumph St, Vancouver, BC V5L 4C3, Canada",-123.064398,49.284244
+"Specialty Grain",5.6,48.6,7,"coal harbour","Coal Harbour Hunter s Moon Roggenweizen","British Columbia","Vancouver","Canada",NA,33,"1967 Triumph St, Vancouver, BC V5L 4C3, Canada",-123.064398,49.284244
+"India Pale Ale",6.5,68.9571428571429,28,"coal harbour","Powell IPA","British Columbia","Vancouver","Canada",NA,66,"1967 Triumph St, Vancouver, BC V5L 4C3, Canada",-123.064398,49.284244
+"Smoked",8.5,67.6,21,"coal harbour","Coal Harbour Smoke & Mirrors","British Columbia","Vancouver","Canada","Special",33,"1967 Triumph St, Vancouver, BC V5L 4C3, Canada",-123.064398,49.284244
+"Specialty Grain",5.25,62.8,8,"coal harbour","Coal Harbour Triumph Rye Ale","British Columbia","Vancouver","Canada",NA,38,"1967 Triumph St, Vancouver, BC V5L 4C3, Canada",-123.064398,49.284244
+"Hefeweizen",5.25,64,9,"coal harbour","Coal Harbour Woodland Wit","British Columbia","Vancouver","Canada","Special",21,"1967 Triumph St, Vancouver, BC V5L 4C3, Canada",-123.064398,49.284244
+"Smoked",NA,72.25,8,"coal harbour","Smoke And Mirrors","British Columbia","Vancouver","Canada",NA,NA,"1967 Triumph St, Vancouver, BC V5L 4C3, Canada",-123.064398,49.284244
+"Dark Ale",6,68.5741935483871,31,"dageraad","Amber","British Columbia","Burnaby","Canada",NA,NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Pale Strong Ale",7.5,69.9274509803922,51,"dageraad","Blonde","British Columbia","Burnaby","Canada","Special",NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Quadrupel",10,65,9,"dageraad","Dageraad 10","British Columbia","Burnaby","Canada",NA,NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Pale Strong Ale",8.3,70.2,8,"dageraad","Dageraad Anno 2014","British Columbia","Burnaby","Canada","Special",NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Ale",4.5,70.9454545454545,11,"dageraad","Burnabarian","British Columbia","Burnaby","Canada",NA,NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Hefeweizen",5.2,68.7935483870968,31,"dageraad","De Witte","British Columbia","Burnaby","Canada","Summer",NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Saison / Farmhouse Ale",6.4,67.6,12,"dageraad","Dageraad Randonneur Saison","British Columbia","Burnaby","Canada","Autumn",NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Pale Strong Ale",8,70,11,"dageraad","Dageraad Sri Lanka","British Columbia","Burnaby","Canada","Spring",NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Pale Strong Ale",NA,78.25,6,"dageraad","Anno 2014","British Columbia","Burnaby","Canada",NA,NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"Saison / Farmhouse Ale",NA,73.5,11,"dageraad","Randonneur Saison","British Columbia","Burnaby","Canada",NA,NA,"3191 Thunderbird Crescent #114, Burnaby, BC V5A 3G1, Canada",-122.9217409,49.2560299
+"India Pale Ale",6.5,70.5372881355932,59,"dead frog","Citra IPA","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Golden Ale/Blond Ale",6.5,63.2,7,"dead frog","Big Stump Spruce Golden Ale","British Columbia","Aldergrove","Canada","Special",26,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Strong Ale",7.5,68.6,7,"dead frog","Dead Frog Brazen Northwest Ale","British Columbia","Aldergrove","Canada",NA,81,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Black India Pale Ale",6.5,64.2857142857143,7,"dead frog","Dead Frog Bucking Black Sheep","British Columbia","Aldergrove","Canada",NA,41,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"India Pale Ale",6.5,70.3333333333333,6,"dead frog","Dead Frog Bucking Sheep IPA","British Columbia","Aldergrove","Canada","Special",NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Brown Ale",5,63.3333333333333,36,"dead frog","Chocolate Mint Brown Ale","British Columbia","Aldergrove","Canada","Winter",NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Spice/Herb/Vegetable/Gruit",5,55.1809523809524,42,"dead frog","Christmas Beeracle","British Columbia","Aldergrove","Canada","Winter",NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Imperial Stout",10.5,65.4333333333333,30,"dead frog","Commander","British Columbia","Aldergrove","Canada","Spring",65,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"India Pale Ale",6.5,65,36,"dead frog","Dead Frog Fearless IPA","British Columbia","Aldergrove","Canada","Special",77,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Stout",6.5,67.8,18,"dead frog","Dead Frog French Oaked Stiff Stout","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Imperial India Pale Ale",9,66.8641509433962,53,"dead frog","Furious Friar Belgian IPA","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"India Pale Ale",6.5,59.4,13,"dead frog","Dead Frog Fusion Hopped IPA","British Columbia","Aldergrove","Canada","Special",NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Pilsner",5,63,6,"dead frog","Dead Frog Fusion Hopped Pilsner","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Amber / Red Ale",NA,51.4,17,"dead frog","Dead Frog Honey Brown","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"India Pale Ale",6.5,68.9625,24,"dead frog","immaculate","British Columbia","Aldergrove","Canada","Summer",50,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Pale Lager",5,52.7626865671642,134,"dead frog","Lager","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Stout",6.1,64.4,12,"dead frog","Dead Frog Nutty Uncle Peanut Butter Stout","British Columbia","Aldergrove","Canada","Special",35,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Pale Ale",5,58.2,50,"dead frog","Dead Frog Pale Ale","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Strong Ale",8,70,6,"dead frog","Red Dragon","British Columbia","Aldergrove","Canada","Special",50,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Extra Special Bitter",6.5,66.7777777777778,18,"dead frog","Rocket Man Interstellar ESB","British Columbia","Aldergrove","Canada",NA,40,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Imperial India Pale Ale",9,74.2,18,"dead frog","Dead Frog Super Fearless Imperial IPA","British Columbia","Aldergrove","Canada","Special",93,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Pale Ale",5,63.0548387096774,62,"dead frog","The Bold","British Columbia","Aldergrove","Canada","Summer",27,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Brown Ale",5,57.8,59,"dead frog","The Classic","British Columbia","Aldergrove","Canada",NA,20,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Black India Pale Ale",6.5,75.1,32,"dead frog","The obsidian dagger IPA","British Columbia","Aldergrove","Canada","Special",50,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Hefeweizen",5,61.384375,16,"dead frog","Citrus Wit","British Columbia","Aldergrove","Canada","Summer",8,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Wheat Ale",5,54.2,22,"dead frog","Dead Frog Toasted Coconut Wit","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Strong Ale",9,60.4583333333333,6,"dead frog","Uber Nutter","British Columbia","Aldergrove","Canada","Special",NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Heller Bock",7,61.6,7,"dead frog","Dead Frog Weeping Reaper Blood Orange Helles Bock","British Columbia","Aldergrove","Canada","Autumn",26,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Spice/Herb/Vegetable/Gruit",7.5,60.4,18,"dead frog","Dead Frog Winter Beeracle","British Columbia","Aldergrove","Canada","Winter",25,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"India Pale Ale",NA,70,24,"dead frog","Fearless India Pale Ale","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Brown Ale",NA,65.5,48,"dead frog","Nut Brown Ale","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Pale Ale",NA,59.75,30,"dead frog","Pale Ale","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Amber / Red Ale",NA,58,17,"dead frog","Mandarin Orange Amber Ale","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Stout",NA,71.25,6,"dead frog","Nutty Uncle Peanut Butter Stout","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Hefeweizen",NA,67.25,12,"dead frog","Toasted Coconut Wit","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"India Pale Ale",NA,68.25,12,"dead frog","Valiant Belgian IPA","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Winter Warmer",NA,62.75,12,"dead frog","Winter Beeracle","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"India Pale Ale",77,68,6,"dead frog","Frearless IPA","British Columbia","Aldergrove","Canada",NA,NA,"27272 Gloucester Way #1, Aldergrove, BC V4W 4A1, Canada",-122.4686303,49.0974973
+"Pale Ale",5,62.2,14,"deep cove brewers","Deep Cove Loud Mouth Pale Ale","British Columbia","North Vancouver","Canada",NA,56,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"Hefeweizen",5,55.4,10,"deep cove brewers","Deep Cove Quick Wit Belgium Wheat Ale","British Columbia","North Vancouver","Canada",NA,NA,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"Stout",5,62.8,11,"deep cove brewers","Deep Cove Smooth Criminal Nitrogen Stout","British Columbia","North Vancouver","Canada",NA,NA,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"India Pale Ale",7,64.75,16,"deep cove brewers","Deep Cove Star Struck Rye IPA","British Columbia","North Vancouver","Canada","Special",82,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"Saison / Farmhouse Ale",5,64.2,18,"deep cove brewers","Deep Cove Sun Kissed Saison","British Columbia","North Vancouver","Canada",NA,NA,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"Pale Lager",5,62.8,10,"deep cove brewers","Deep Cove Trapper John s Lager","British Columbia","North Vancouver","Canada",NA,NA,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"India Pale Ale",7,66,8,"deep cove brewers","Deep Cove University Brew Off IPA (Hoperalla IPA)","British Columbia","North Vancouver","Canada","Special",NA,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"India Pale Ale",4.5,63.6,6,"deep cove brewers","Deep Cove Whistler Village Beer Festival Organic ISA","British Columbia","North Vancouver","Canada","Summer",61,"2270 Dollarton Hwy #170, North Vancouver, BC V7H 2M9, Canada",-123.0120006,49.3062842
+"Hefeweizen",6,74.0689655172414,29,"four winds","Apparition","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Dunkel",5.5,63.2,9,"four winds","Dunkelweizen","British Columbia","Delta","Canada","Special",NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"India Pale Ale",7,76.4985714285714,175,"four winds","IPA","British Columbia","Delta","Canada",NA,70,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Berliner Weissbier",4,67,12,"four winds","Four Winds Berliner Weisse","British Columbia","Delta","Canada",NA,6,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Ale",4.5,63.2,8,"four winds","Four Winds La Maison (Grisette)","British Columbia","Delta","Canada","Special",15,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Porter",5.5,64.2,19,"four winds","Four Winds Malted Oat Porter","British Columbia","Delta","Canada","Special",25,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Lambic & Geuze",6,82,15,"four winds","Four Winds Nectarous","British Columbia","Delta","Canada","Special",NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Saison / Farmhouse Ale",7,79.6384615384615,39,"four winds","Saison Brett","British Columbia","Delta","Canada",NA,28,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Pale Ale",5.3,68.8,16,"four winds","Four Winds Pale Ale","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Pilsner",4.8,68.6,17,"four winds","Four Winds Pilsner","British Columbia","Delta","Canada",NA,38,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Saison / Farmhouse Ale",6.5,64.6,41,"four winds","Four Winds Saison","British Columbia","Delta","Canada",NA,32,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Saison / Farmhouse Ale",8.5,76.5176470588235,34,"four winds","Sovereign Super Saison","British Columbia","Delta","Canada","Special",NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Tripel",9,73.1220930232558,43,"four winds","Triplicity Belgian Tripel","British Columbia","Delta","Canada","Special",NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Imperial India Pale Ale",9,76,21,"four winds","Four Winds Vexillum","British Columbia","Delta","Canada","Series",100,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Saison / Farmhouse Ale",6.5,74.77,25,"four winds","Wildflower Saison","British Columbia","Delta","Canada","Summer",30,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Hefeweizen",4.3,68.3461538461538,13,"four winds","Witicism","British Columbia","Delta","Canada","Spring",10,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Pale Ale",NA,74.75,14,"four winds","Pale Ale","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Pilsner",4.8,77,12,"four winds","Pilsner","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Saison / Farmhouse Ale",NA,73,42,"four winds","Saison","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Lambic & Geuze",NA,89.5,12,"four winds","Nectarous","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Porter",NA,70.5,10,"four winds","Oat Porter","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Specialty Grain",NA,79.75,23,"four winds","Phaedra","British Columbia","Delta","Canada",NA,NA,"7355 72 St, Delta, BC V4G 1L5, Canada",-123.026466,49.136309
+"Scotch Ale",6.25,63,13,"granville island taproom molsoncoors","Granville Island Auld Skool Scottish Ale","British Columbia","Vancouver","Canada","Special",20,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Barley Wine",11.5,67.2,18,"granville island taproom molsoncoors","Granville Island Barley Wine","British Columbia","Vancouver","Canada","Winter",60,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Ale",6,57.2,8,"granville island taproom molsoncoors","Granville Island Belgian Blonde Ale","British Columbia","Vancouver","Canada","Summer",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Hefeweizen",5,63,21,"granville island taproom molsoncoors","Granville Island Belgian Wit","British Columbia","Vancouver","Canada","Summer",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Brown Ale",6.2,64,12,"granville island taproom molsoncoors","Granville Island Brash Knuckles American Brown Ale","British Columbia","Vancouver","Canada","Spring",40,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Weizenbock",8,65.8,15,"granville island taproom molsoncoors","Granville Island Burly Goat Weizenbock","British Columbia","Vancouver","Canada","Winter",35,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Stout",6,68.8,12,"granville island taproom molsoncoors","Granville Island Chocolate Stout","British Columbia","Vancouver","Canada","Winter",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Black India Pale Ale",6.25,69.2,28,"granville island taproom molsoncoors","Granville Island Cloak & Dagger Cascadian Dark Ale","British Columbia","Vancouver","Canada",NA,60,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Imperial Stout",8.7,63.8,16,"granville island taproom molsoncoors","Granville Island Cocoa Loco Imperial Chocolate Stout","British Columbia","Vancouver","Canada","Winter",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Extra Special Bitter",5.6,63.8,15,"granville island taproom molsoncoors","Granville Island Fresh Hop ESB","British Columbia","Vancouver","Canada","Autumn",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Extra Special Bitter",4.6,62.8530612244898,49,"granville island taproom molsoncoors","Granville Island GIBitter","British Columbia","Vancouver","Canada","Spring",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Imperial Stout",8.4,66.6,40,"granville island taproom molsoncoors","Granville Island Imperial Chocolate Stout","British Columbia","Vancouver","Canada","Winter",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Ale",5,63.6,20,"granville island taproom molsoncoors","Granville Island Irish Red","British Columbia","Vancouver","Canada","Spring",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Tripel",9,66.4,25,"granville island taproom molsoncoors","Granville Island Jolly Abbot","British Columbia","Vancouver","Canada","Winter",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Brown Ale",5,63.4,16,"granville island taproom molsoncoors","Granville Island Nut Brown","British Columbia","Vancouver","Canada","Spring",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"India Pale Ale",7.8,68.2,27,"granville island taproom molsoncoors","Granville Island One-Two Punch Belgian IPA","British Columbia","Vancouver","Canada",NA,75,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Pilsner",5,55.6,10,"granville island taproom molsoncoors","Granville Island Pilsner","British Columbia","Vancouver","Canada","Summer",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Berliner Weissbier",2.8,62.4,7,"granville island taproom molsoncoors","Granville Island Pucker Meister Berliner Weisse","British Columbia","Vancouver","Canada","Special",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Spice/Herb/Vegetable/Gruit",6,60.4,40,"granville island taproom molsoncoors","Granville Island Pumpkin Ale","British Columbia","Vancouver","Canada","Autumn",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"India Pale Ale",6.5,66,13,"granville island taproom molsoncoors","Granville Island Random Tandem White IPA","British Columbia","Vancouver","Canada","Special",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Saison / Farmhouse Ale",6.5,65.2,24,"granville island taproom molsoncoors","Granville Island Saison","British Columbia","Vancouver","Canada",NA,30,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Scotch Ale",6.5,64.8,50,"granville island taproom molsoncoors","Granville Island Scottish Ale","British Columbia","Vancouver","Canada","Winter",NA,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Stout",4.8,65.8,12,"granville island taproom molsoncoors","Granville Island Shamrocker Potato Stout","British Columbia","Vancouver","Canada","Spring",35,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Imperial India Pale Ale",8.7,66.6,24,"granville island taproom molsoncoors","Granville Island Shipload of Hops Imperial IPA","British Columbia","Vancouver","Canada","Summer",100,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Saison / Farmhouse Ale",6.2,65.6,30,"granville island taproom molsoncoors","Granville Island Thirsty Farmer Saison","British Columbia","Vancouver","Canada",NA,30,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"Bitter",3.6,58.2,15,"granville island taproom molsoncoors","Granville Island Uncle Monty s Best Bitter","British Columbia","Vancouver","Canada","Special",40,"1550 Burrard St, Vancouver, BC V6J 3G5, Canada",-123.1448384,49.2722
+"India Pale Ale",7,64.6909090909091,11,"green leaf","Animal Farm IPA","British Columbia","North Vancouver","Canada",NA,68,"123 Carrie Cates Ct, North Vancouver, BC V7M 3K7, Canada",-123.0808714,49.3106613
+"Berliner Weissbier",4,59.2,7,"green leaf","Green Leaf Berliner Vice","British Columbia","North Vancouver","Canada","Spring",5,"123 Carrie Cates Ct, North Vancouver, BC V7M 3K7, Canada",-123.0808714,49.3106613
+"Imperial India Pale Ale",8,64.4,6,"green leaf","Green Leaf Bitter Leaf IPA","British Columbia","North Vancouver","Canada",NA,80,"123 Carrie Cates Ct, North Vancouver, BC V7M 3K7, Canada",-123.0808714,49.3106613
+"Traditional Ale",5.5,66.0625,8,"green leaf","Burning Rock Ale","British Columbia","North Vancouver","Canada","Spring",25,"123 Carrie Cates Ct, North Vancouver, BC V7M 3K7, Canada",-123.0808714,49.3106613
+"Ale",5.8,63.5675,20,"green leaf","Pie Hole Pale Ale","British Columbia","North Vancouver","Canada","Special",40,"123 Carrie Cates Ct, North Vancouver, BC V7M 3K7, Canada",-123.0808714,49.3106613
+"Imperial India Pale Ale",8,67.8,10,"green leaf","Green Leaf Red Bretty (Ugly Bretty) IPA","British Columbia","North Vancouver","Canada","Special",80,"123 Carrie Cates Ct, North Vancouver, BC V7M 3K7, Canada",-123.0808714,49.3106613
+"Pilsner",5,54.8,21,"main street bc","Main Street Pilsner","British Columbia","Vancouver","Canada",NA,22,"261 E 7th Ave, Vancouver, BC V5T 0B4, Canada",-123.0992043,49.2646786
+"Saison / Farmhouse Ale",6.3,38.6,6,"main street bc","Main Street Red Reifel","British Columbia","Vancouver","Canada","Special",30,"261 E 7th Ave, Vancouver, BC V5T 0B4, Canada",-123.0992043,49.2646786
+"India Pale Ale",4.8,70.6736842105263,19,"main street bc","Main Street Sessional IPA","British Columbia","Vancouver","Canada",NA,55,"261 E 7th Ave, Vancouver, BC V5T 0B4, Canada",-123.0992043,49.2646786
+"India Pale Ale",6.5,65.4,7,"main street bc","Main Street Southern Hop IPA","British Columbia","Vancouver","Canada",NA,NA,"261 E 7th Ave, Vancouver, BC V5T 0B4, Canada",-123.0992043,49.2646786
+"Imperial Stout",9,71.2,9,"main street bc","Main Street Stag & Pheasant Imperial Stout","British Columbia","Vancouver","Canada","Special",65,"261 E 7th Ave, Vancouver, BC V5T 0B4, Canada",-123.0992043,49.2646786
+"Weizenbock",8,61,6,"main street bc","Main Street Vanlandia Hopfenweizenbock","British Columbia","Vancouver","Canada","Special",30,"261 E 7th Ave, Vancouver, BC V5T 0B4, Canada",-123.0992043,49.2646786
+"Brown Ale",6,68.9230769230769,13,"main street bc","Main Street Westminster Brown","British Columbia","Vancouver","Canada",NA,30,"261 E 7th Ave, Vancouver, BC V5T 0B4, Canada",-123.0992043,49.2646786
+"India Pale Ale",6.8,69.7833333333333,12,"moody ales","Affable IPA","British Columbia","Port Moody","Canada",NA,60,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Golden Ale/Blond Ale",5.5,61.2583333333333,12,"moody ales","Chipper Blonde Ale","British Columbia","Port Moody","Canada",NA,26,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Brown Ale",5.5,65.6,8,"moody ales","Hardy Brown Ale","British Columbia","Port Moody","Canada",NA,22,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Spice/Herb/Vegetable/Gruit",6.9,62.6,6,"moody ales","Intrepid Matcha Saison","British Columbia","Port Moody","Canada",NA,NA,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Stout",5.8,62.5833333333333,6,"moody ales","Lusty Chocolate Oatmeal Stout","British Columbia","Port Moody","Canada","Special",38,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Imperial Stout",11.5,69.6666666666667,6,"moody ales","Russian Imperial Stout","British Columbia","Port Moody","Canada",NA,NA,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Smoked",6.9,68.1428571428571,7,"moody ales","Smouldering Smoked Porter","British Columbia","Port Moody","Canada",NA,19,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Grodziskie/Gose/Lichtenhainer",5.5,65.2,7,"moody ales","The Great Gr tzer","British Columbia","Port Moody","Canada","Special",35,"2601 Murray St, Port Moody, BC V3H 3R5, Canada",-122.8543231,49.2785132
+"Black Ale",6.5,69.6978723404255,47,"parallel 49","Black Christmas","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Dark Lager",6.5,68,52,"parallel 49","Black Hops","British Columbia","Vancouver","Canada","Special",41,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Lager",5,57.12,25,"parallel 49","Craft Lager","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",4.5,64.8,20,"parallel 49","Parallel 49 / Bomber Little Red Rooster","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Pilsner",6.5,60.4,19,"parallel 49","Parallel 49 / Brassneck The Thrill Is Gone","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Imperial Porter",9,67,12,"parallel 49","Parallel 49 / Central City Schwarzwald","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Saison / Farmhouse Ale",4.5,63.4,20,"parallel 49","Parallel 49 / Dageraad House of the Rising Sun","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Scotch Ale",8.5,56.4,18,"parallel 49","Parallel 49 / Firehall One Bourbon, One Scotch, One Beer","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Tripel",9,60.6,18,"parallel 49","Parallel 49 / Moon Under Water Boom Boom Boom","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",6.5,68.4,6,"parallel 49","Parallel 49 / Moon Under Water Munich IPA","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Specialty Grain",6.4,69.8,12,"parallel 49","Parallel 49 / Ninkasi Red Eye Red Rye Lager","British Columbia","Vancouver","Canada","Special",41,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Brown Ale",4.5,58.4,19,"parallel 49","Parallel 49 / Persephone Stormy Monday","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Imperial India Pale Ale",9,66.2,19,"parallel 49","Parallel 49 / Powell Street Stone Crazy","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",7,66.2,19,"parallel 49","Parallel 49 / Rossland Smokestack Lightning","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Zwickel/Keller/Landbier",4.8,60.8,19,"parallel 49","Parallel 49 / Steel & Oak Tiger in Your Tank","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",6.5,58.2,20,"parallel 49","Parallel 49 / Storm Backdoor Man","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Saison / Farmhouse Ale",5,52,20,"parallel 49","Parallel 49 / Townsite Les Portes du P nitencier","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",6,67.8,19,"parallel 49","Parallel 49 / Yellow Dog Hound Dog","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Lambic & Geuze",6.8,62.4,10,"parallel 49","Parallel 49 Apricotopus Sour Saison","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Hefeweizen",6,65.8169811320755,53,"parallel 49","Banana Hammock","British Columbia","Vancouver","Canada","Summer",8,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Barley Wine",11.8,68.6,10,"parallel 49","Parallel 49 Barrel Aged Series Barley Wine","British Columbia","Vancouver","Canada","Winter",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Imperial Stout",10.9,75,49,"parallel 49","Parallel 49 Barrel Aged Series Russian Imperial Stout","British Columbia","Vancouver","Canada","Special",46,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Radler/Shandy",3.5,59.4,6,"parallel 49","Parallel 49 Beermosa","British Columbia","Vancouver","Canada","Summer",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Mead & Braggot",10.2,69,10,"parallel 49","Parallel 49 Braggot","British Columbia","Vancouver","Canada","Special",8,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Brown Ale",5,67.4285714285714,7,"parallel 49","Old Boy Classic Ale","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Imperial India Pale Ale",8.5,74.2,8,"parallel 49","Parallel 49 Corn Hops","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Pilsner",5.8,61.2,17,"parallel 49","Crane Kick","British Columbia","Vancouver","Canada",NA,37,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Doppelbock",8.7,56.6,16,"parallel 49","Parallel 49 Defibrillator Doppelbock","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Extra Special Bitter",4.8,64.4,11,"parallel 49","Parallel 49 Extra Special Bitter","British Columbia","Vancouver","Canada","Special",NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",7.2,65.8705035971223,139,"parallel 49","Filthy Dirty IPA","British Columbia","Vancouver","Canada",NA,75,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Pilsner",5,73.6,15,"parallel 49","Pound Sterling","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Schwarzbier",NA,69.75,12,"parallel 49","Schwarzwald","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Braggot",NA,75,6,"parallel 49","Barrel Aged Series: Braggot","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Doppelbock",NA,67.75,17,"parallel 49","Defibrillator","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Amber / Red Ale",6,71.0251572327044,159,"parallel 49","Gypsy Tears Ruby Ale","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Saison / Farmhouse Ale",6,67,34,"parallel 49","Hay Fever","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Pale Lager",6,67.9047619047619,105,"parallel 49","Hoparazzi","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Berliner Weissbier",NA,39.25,31,"parallel 49","Lil Red Sour Cherry Berliner Weisse","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",NA,72.9,75,"parallel 49","Lord of the Hops","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Porter",6.5,71.5625,60,"parallel 49","Lost Souls","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Extra Special Bitter",NA,60.5,6,"parallel 49","N2 ESB","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Stout",NA,64,15,"parallel 49","N2 Milk Stout","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Brown Ale",NA,63.75,93,"parallel 49","Old Boy Ale","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Specialty Grain",NA,74.25,10,"parallel 49","Red Eye Lager","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Imperial India Pale Ale",9.3,71.25,28,"parallel 49","Robo Ruby","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Sahti/Gotlandsdricke/Kodulu",7.7,72,20,"parallel 49","Sahti Claws","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Scotch Ale",7.5,73.5632183908046,174,"parallel 49","Salty Scot","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Mrzen / Oktoberfest",5,75.5,45,"parallel 49","Schadenfreude","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Hefeweizen",5,62.75,53,"parallel 49","Seedspitter","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Imperial India Pale Ale",9.3,72.125,78,"parallel 49","Snap, Crackle, Hop","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Pale Ale",NA,70,11,"parallel 49","Sun Of Hop","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Imperial India Pale Ale",NA,74.75,40,"parallel 49","The Toques Of Hazzard White Imperial IPA","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Fruit Beer",NA,62.25,18,"parallel 49","Tricycle Grapefruit Radler","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Stout",5,69.343137254902,51,"parallel 49","Ugly Sweater","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Dark Strong Ale",9.8,71.25,86,"parallel 49","Vow of Silence","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"Pale Strong Ale",NA,65.25,14,"parallel 49","Wild Ride","British Columbia","Vancouver","Canada",NA,NA,"1950 Triumph St, Vancouver, BC V5L 1K5, Canada",-123.0644015,49.2839056
+"India Pale Ale",6.2,60.7571428571429,21,"postmark","IPA","British Columbia","Vancouver","Canada","Special",50,"55 Dunlevy Ave, Vancouver, BC V6A 1G7, Canada",-123.095659,49.2843192
+"Pilsner",4.7,62.2181818181818,11,"postmark","Pilsner","British Columbia","Vancouver","Canada","Special",NA,"55 Dunlevy Ave, Vancouver, BC V6A 1G7, Canada",-123.095659,49.2843192
+"Stout",4.5,63.0285714285714,14,"postmark","Postmark Dry Stout","British Columbia","Vancouver","Canada",NA,32,"55 Dunlevy Ave, Vancouver, BC V6A 1G7, Canada",-123.095659,49.2843192
+"Saison / Farmhouse Ale",4.2,57.4736842105263,19,"postmark","Saison","British Columbia","Vancouver","Canada",NA,27,"55 Dunlevy Ave, Vancouver, BC V6A 1G7, Canada",-123.095659,49.2843192
+"Pale Ale",4.6,62,9,"postmark","Postmark West Coast Pale Ale","British Columbia","Vancouver","Canada",NA,40,"55 Dunlevy Ave, Vancouver, BC V6A 1G7, Canada",-123.095659,49.2843192
+"Pale Ale",6,63.8,8,"powell street craft","Powell Street 95 Pounds of Wet Hop Goodness","British Columbia","Vancouver","Canada","Autumn",30,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Wheat Ale",5,64.8,7,"powell street craft","Powell Street Belgian Witbier","British Columbia","Vancouver","Canada","Spring",16,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Porter",5,63.3368421052632,19,"powell street craft","Powell Street Dive Bomb Porter","British Columbia","Vancouver","Canada",NA,33,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Imperial India Pale Ale",8,71.6,16,"powell street craft","Powell Street Hopdemonium IPA","British Columbia","Vancouver","Canada",NA,88,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Pale Ale",5.5,71,18,"powell street craft","Powell Street Ode to Citra Pale Ale","British Columbia","Vancouver","Canada","Special",40,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Pale Ale",5.5,68.6923076923077,78,"powell street craft","Old Jalopy Pale Ale","British Columbia","Vancouver","Canada",NA,40,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Imperial India Pale Ale",9,75,8,"powell street craft","Powell Street Right Kind of Crazy Double IPA","British Columbia","Vancouver","Canada",NA,150,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Saison / Farmhouse Ale",6.5,73.69,10,"powell street craft","Sour Saison","British Columbia","Vancouver","Canada",NA,19,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Stout",6,72.6727272727273,11,"powell street craft","Stout","British Columbia","Vancouver","Canada","Winter",45,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"India Pale Ale",6,70.796875,32,"powell street craft","White IPA","British Columbia","Vancouver","Canada","Special",NA,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Pale Ale",NA,71.5,9,"powell street craft","95 Pounds Of Wet Hop Goodness","British Columbia","Vancouver","Canada",NA,NA,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Porter",NA,74.5,16,"powell street craft","Dive Bomb Porter","British Columbia","Vancouver","Canada",NA,NA,"1357 Powell St, Vancouver, BC V5L 1G8, Canada",-123.075884,49.2833285
+"Amber / Red Ale",5.2,63.3636363636364,22,"red truck","Red Truck Ale","British Columbia","Vancouver","Canada","Special",NA,"295 E 1st Ave, Vancouver, BC V5T 1A7, Canada",-123.096484,49.268608
+"Black India Pale Ale",6,72,6,"red truck","Red Truck Cascadian Dark Ale","British Columbia","Vancouver","Canada","Special",NA,"295 E 1st Ave, Vancouver, BC V5T 1A7, Canada",-123.096484,49.268608
+"Pale Strong Ale",NA,64.6,7,"red truck","Red Truck Golden Belgian Ale","British Columbia","Vancouver","Canada","Special",NA,"295 E 1st Ave, Vancouver, BC V5T 1A7, Canada",-123.096484,49.268608
+"India Pale Ale",6.5,66.2,11,"red truck","Red Truck IPA","British Columbia","Vancouver","Canada",NA,NA,"295 E 1st Ave, Vancouver, BC V5T 1A7, Canada",-123.096484,49.268608
+"Pale Lager",5,57.6,25,"red truck","Red Truck Lager","British Columbia","Vancouver","Canada",NA,NA,"295 E 1st Ave, Vancouver, BC V5T 1A7, Canada",-123.096484,49.268608
+"Ale",6,59.2,6,"red truck","Red Truck Ridin  Shotgun Belgian Blonde Ale","British Columbia","Vancouver","Canada","Special",25,"295 E 1st Ave, Vancouver, BC V5T 1A7, Canada",-123.096484,49.268608
+"Tripel",9.5,55.2,7,"red truck","Red Truck Three on the Tree Belgian Tripel","British Columbia","Vancouver","Canada","Spring",23,"295 E 1st Ave, Vancouver, BC V5T 1A7, Canada",-123.096484,49.268608
+"Golden Ale/Blond Ale",5,51.9152173913044,23,"russell","Blonde Ale","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Pale Ale",NA,60,7,"russell","Chambar Ale","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Mild Ale",5,55.9916666666667,60,"russell","Cream Ale","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Pale Ale",5,55.6,6,"russell","Guuud! Ale","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Ale",5,62.8,15,"russell","Luck of the Irish","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Pale Lager",NA,74.5,9,"russell","Main Street Pilsner","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Mrzen / Oktoberfest",5.5,65.2,28,"russell","Marzen","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Pale Ale",5.7,59.6193548387097,31,"russell","Pale Ale","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"India Pale Ale",6.5,74.8,10,"russell","Russell 19th Anniversary IP G Day Australian Hopped IPA","British Columbia","Surrey","Canada","Special",53,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Scotch Ale",6.5,66,22,"russell","Russell 6.26 17th Anniversary Scotch Ale","British Columbia","Surrey","Canada","Special",30,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Scotch Ale",6.5,65,81,"russell","Russell A Wee Angry Scotch Ale","British Columbia","Surrey","Canada","Special",30,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Porter",6.5,63.8928571428571,91,"russell","Russell Black Death","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Extra Special Bitter",27.75,69.7006711409396,149,"russell","Blood Alley Bitter","British Columbia","Surrey","Canada","Special",50,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Barley Wine",10,65.8,13,"russell","Russell Brewmaster Series Truth Serum Wheat Wine Ale","British Columbia","Surrey","Canada","Special",70,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Wheat Ale",6,72.2171052631579,38,"russell","White Rabbit","British Columbia","Surrey","Canada","Winter",NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Fruit Beer",5,38.8,10,"russell","Russell Cactus Lime Lager","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Pilsner",5,65.4705882352941,34,"russell","Eastern Promises","British Columbia","Surrey","Canada",NA,35,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Premium Lager",5,49.9,24,"russell","Russell Extra Special Lager","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Imperial India Pale Ale",9,73.8074468085106,94,"russell","Hop Therapy","British Columbia","Surrey","Canada",NA,100,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"India Pale Ale",6.5,63.2,81,"russell","Russell IP eh","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Fruit Beer",NA,44.1230769230769,26,"russell","Russell Lemon Ale","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Porter",6.5,67.4090909090909,44,"russell","Naughty & Spiced Porter","British Columbia","Surrey","Canada","Winter",30,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Barley Wine",9.3,66,12,"russell","Russell Nautical Disaster Barleywine","British Columbia","Surrey","Canada","Special",60,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Barley Wine",10,67.6,25,"russell","Russell Nectar of the Gods Wheat Wine","British Columbia","Surrey","Canada","Special",70,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"India Pale Ale",6.5,72.6,20,"russell","Punch bowl","British Columbia","Surrey","Canada",NA,65,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Imperial Stout",10.8,73.2,16,"russell","Russell Rick August Russian Imperial Stout","British Columbia","Surrey","Canada","Special",86,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Pilsner",5,47.6695652173913,23,"russell","Russell Rocky Mountain Pilsner","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Smoked",5.3,62.3045454545455,66,"russell","Smokey The Beer","British Columbia","Surrey","Canada",NA,28,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Porter",6.5,64.4,8,"russell","Russell St. Nick s Oaked Spiced Porter","British Columbia","Surrey","Canada","Special",NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Porter",7.5,59,13,"russell","Russell Winter Porter","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Scotch Ale",8.5,66.8,33,"russell","Russell/Storm Big Smoke Ale","British Columbia","Surrey","Canada","Special",40,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Scotch Ale",NA,73.75,75,"russell","Russell Angry Scotch Ale","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"India Pale Ale",NA,66,73,"russell","Russell IP'eh!","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"India Pale Ale",NA,75.25,9,"russell","Russell IPG'Day","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Fruit Beer",NA,32.25,8,"russell","Russell Lime Lager","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Mrzen / Oktoberfest",NA,69.5,20,"russell","Russell Mrzen","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Saison / Farmhouse Ale",NA,60.25,7,"russell","Summer Daze Saison","British Columbia","Surrey","Canada",NA,NA,"13018 80 Ave, Surrey, BC V3W 2B2, Canada",-122.8620366,49.147866
+"Hefeweizen",4.75,66.6,42,"sailor hagars","Sailor Hagars Belgian Wit","British Columbia","North Vancouver","Canada",NA,NA,"86 Semisch Ave, North Vancouver, BC V7M 3H8, Canada",-123.0831487,49.3134561
+"India Pale Ale",6,66.4,68,"sailor hagars","Sailor Hagars Bengal IPA","British Columbia","North Vancouver","Canada",NA,NA,"86 Semisch Ave, North Vancouver, BC V7M 3H8, Canada",-123.0831487,49.3134561
+"Brown Ale",4.3,58.2,24,"sailor hagars","Sailor Hagars Grizzly Nut Brown","British Columbia","North Vancouver","Canada",NA,NA,"86 Semisch Ave, North Vancouver, BC V7M 3H8, Canada",-123.0831487,49.3134561
+"Pilsner",4.5,54,20,"sailor hagars","Sailor Hagars Honey Pilsner","British Columbia","North Vancouver","Canada",NA,NA,"86 Semisch Ave, North Vancouver, BC V7M 3H8, Canada",-123.0831487,49.3134561
+"Extra Special Bitter",5.4,65.2,52,"sailor hagars","Sailor Hagars Lohins ESB","British Columbia","North Vancouver","Canada",NA,NA,"86 Semisch Ave, North Vancouver, BC V7M 3H8, Canada",-123.0831487,49.3134561
+"Pale Ale",4.1,61.6,13,"sailor hagars","Sailor Hagars Narwhal Pale Ale","British Columbia","North Vancouver","Canada",NA,NA,"86 Semisch Ave, North Vancouver, BC V7M 3H8, Canada",-123.0831487,49.3134561
+"Pale Ale",4.1,61.6,13,"sailor hagars","Sailor Hagars Narwhal Pale Ale","British Columbia","North Vancouver","Canada",NA,NA,"86 Semisch Ave, North Vancouver, BC V7M 3H8, Canada",-123.0831487,49.3134561
+"Spice/Herb/Vegetable/Gruit",6.5,65.4,51,"steamworks canada","Steamworks (Great) Pumpkin Ale","British Columbia","Vancouver","Canada","Autumn",16,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Smoked",6.5,69.9333333333333,18,"steamworks canada","Steamworks / Brassneck Firewalker Smokey Porter","British Columbia","Vancouver","Canada","Special",40,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Spice/Herb/Vegetable/Gruit",5,63.8,15,"steamworks canada","Steamworks / New Belgium Rollin  Golden Belgian Ale","British Columbia","Vancouver","Canada","Special",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Black India Pale Ale",7,72.6,6,"steamworks canada","Steamworks Black Angel IPA","British Columbia","Vancouver","Canada","Autumn",70,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Tripel",9,65.6,53,"steamworks canada","Steamworks Blitzen Christmas Ale","British Columbia","Vancouver","Canada","Winter",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Cream Ale",NA,60.4,21,"steamworks canada","Steamworks Cascadia Cream Ale","British Columbia","Vancouver","Canada",NA,NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Porter",NA,62.6,27,"steamworks canada","Steamworks Coal Porter","British Columbia","Vancouver","Canada",NA,NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"India Pale Ale",NA,58.8,67,"steamworks canada","Steamworks Empress India Pale Ale","British Columbia","Vancouver","Canada",NA,NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Imperial Stout",8,74.6,21,"steamworks canada","Steamworks Espresso Stout (formerly The Steamworks Grand)","British Columbia","Vancouver","Canada","Special",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Fruit Beer",7,61.8,13,"steamworks canada","Steamworks Framboz n (2014- )","British Columbia","Vancouver","Canada","Summer",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Spice/Herb/Vegetable/Gruit",NA,61.4,10,"steamworks canada","Steamworks Ginger Beer","British Columbia","Vancouver","Canada","Spring",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Hefeweizen",NA,62.6,26,"steamworks canada","Steamworks Hefeweizen (Skinny Tire)","British Columbia","Vancouver","Canada","Winter",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Stout",NA,61.4,52,"steamworks canada","Steamworks Heroica Oatmeal Stout","British Columbia","Vancouver","Canada",NA,NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Amber / Red Ale",5.6,65.2,7,"steamworks canada","Steamworks Heroica Red Ale","British Columbia","Vancouver","Canada","Autumn",45,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Hefeweizen",NA,61,34,"steamworks canada","Steamworks Ipanema Summer White","British Columbia","Vancouver","Canada","Summer",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"India Pale Ale",6.5,66.4,24,"steamworks canada","Steamworks Jasmine IPA","British Columbia","Vancouver","Canada","Special",60,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Kolsch",5,60.8,10,"steamworks canada","Steamworks Kanadische K lsch","British Columbia","Vancouver","Canada","Summer",22,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Spice/Herb/Vegetable/Gruit",4.7,57.4,8,"steamworks canada","Steamworks Killer Cucumber Ale","British Columbia","Vancouver","Canada","Spring",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Pale Lager",NA,50.6,40,"steamworks canada","Steamworks Lions Gate Lager","British Columbia","Vancouver","Canada",NA,NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Brown Ale",NA,58.6,40,"steamworks canada","Steamworks Nirvana Nut Brown Ale","British Columbia","Vancouver","Canada",NA,NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"India Pale Ale",NA,68.6,26,"steamworks canada","Steamworks NXNW IPA","British Columbia","Vancouver","Canada",NA,NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Pilsner",5,66.2,59,"steamworks canada","Steamworks Pilsner","British Columbia","Vancouver","Canada",NA,30,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Specialty Grain",5,62.8,13,"steamworks canada","Steamworks RoggenWeizen","British Columbia","Vancouver","Canada","Spring",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Pale Ale",5.2,59.8,107,"steamworks canada","Steamworks Signature Pale Ale","British Columbia","Vancouver","Canada",NA,35,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Fruit Beer",8,62.8,16,"steamworks canada","Steamworks Sour Cherry Ale","British Columbia","Vancouver","Canada","Winter",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"India Pale Ale",7,74.4,6,"steamworks canada","Steamworks Southern Hemisphere IPA","British Columbia","Vancouver","Canada","Special",NA,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Strong Ale",8.5,71.6,12,"steamworks canada","Steamworks Steam Pump Imperial Red","British Columbia","Vancouver","Canada",NA,75,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"India Pale Ale",6.5,67.8,8,"steamworks canada","Steamworks White Angel IPA","British Columbia","Vancouver","Canada","Spring",60,"375 Water St, Vancouver, BC V6B 1B8, Canada",-123.1104305,49.284636
+"Grodziskie/Gose/Lichtenhainer",4,65.2,9,"steel and oak","Four Winds / Steel & Oak Gr tzer","British Columbia","New Westminster","Canada",NA,8,"1319 3rd Ave, New Westminster, BC V3M 1R2, Canada",-122.9272102,49.2021832
+"Pale Ale",5,62.4444444444444,9,"steel and oak","Pale Ale","British Columbia","New Westminster","Canada",NA,NA,"1319 3rd Ave, New Westminster, BC V3M 1R2, Canada",-122.9272102,49.2021832
+"Extra Special Bitter",4.6,60.2222222222222,9,"steel and oak","Dry-Hopped ESB","British Columbia","New Westminster","Canada",NA,40,"1319 3rd Ave, New Westminster, BC V3M 1R2, Canada",-122.9272102,49.2021832
+"Amber / Red Ale",5,62,8,"steel and oak","Steel & Oak Red Pilsner","British Columbia","New Westminster","Canada",NA,NA,"1319 3rd Ave, New Westminster, BC V3M 1R2, Canada",-122.9272102,49.2021832
+"Specialty Grain",NA,63.2,9,"steel and oak","Steel & Oak Roggenweizen","British Columbia","New Westminster","Canada",NA,NA,"1319 3rd Ave, New Westminster, BC V3M 1R2, Canada",-122.9272102,49.2021832
+"Smoked",5.4,65.7916666666667,12,"steel and oak","Smoked Hefeweizen","British Columbia","New Westminster","Canada",NA,NA,"1319 3rd Ave, New Westminster, BC V3M 1R2, Canada",-122.9272102,49.2021832
+"Smoked",5.5,63.75,6,"steel and oak","Smoked Lager","British Columbia","New Westminster","Canada",NA,22,"1319 3rd Ave, New Westminster, BC V3M 1R2, Canada",-122.9272102,49.2021832
+"Golden Ale/Blond Ale",5,52,6,"steel toad","Steel Toad American Blonde","British Columbia","Vancouver","Canada",NA,NA,"97 E 2nd Ave, Vancouver, BC V5T 1B3, Canada",-123.1032707,49.2693876
+"Berliner Weissbier",4.5,65,6,"steel toad","Steel Toad Berliner Weisse","British Columbia","Vancouver","Canada",NA,NA,"97 E 2nd Ave, Vancouver, BC V5T 1B3, Canada",-123.1032707,49.2693876
+"India Pale Ale",6,67,6,"steel toad","Steel Toad East Coast Rye IPA","British Columbia","Vancouver","Canada",NA,NA,"97 E 2nd Ave, Vancouver, BC V5T 1B3, Canada",-123.1032707,49.2693876
+"Stout",6,64.8,8,"steel toad","Steel Toad Oatmeal Stout","British Columbia","Vancouver","Canada",NA,NA,"97 E 2nd Ave, Vancouver, BC V5T 1B3, Canada",-123.1032707,49.2693876
+"Bitter",4,62,7,"steel toad","Steel Toad Yorkshire Best Bitter","British Columbia","Vancouver","Canada",NA,NA,"97 E 2nd Ave, Vancouver, BC V5T 1B3, Canada",-123.1032707,49.2693876
+"Stout",8,67.2,26,"storm bc","Storm Black Plague Stout","British Columbia","Vancouver","Canada",NA,NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"Spice/Herb/Vegetable/Gruit",5,66.6,7,"storm bc","Storm Granny Smith Apple Pie","British Columbia","Vancouver","Canada","Special",NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"Scotch Ale",5,59.6,20,"storm bc","Storm Highland Scottish Ale","British Columbia","Vancouver","Canada",NA,NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"India Pale Ale",7,64.8,32,"storm bc","Storm Hurricane IPA","British Columbia","Vancouver","Canada",NA,NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"Sour Red/Brown",12.5,73.2166666666667,36,"storm bc","Storm Imperial Flanders Red Ale","British Columbia","Vancouver","Canada","Special",NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"Pilsner",5,62.6,12,"storm bc","Storm Precipitation Pilsener","British Columbia","Vancouver","Canada",NA,NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"Spice/Herb/Vegetable/Gruit",5,56.8,7,"storm bc","Storm Rootbeer (Root of all Evil Stout)","British Columbia","Vancouver","Canada","Special",NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"Stout",8.5,68,11,"storm bc","Storm Vanilla Whiskey Stout","British Columbia","Vancouver","Canada","Special",NA,"310 Commercial Dr, Vancouver, BC, Canada",-123.07021,49.2820037
+"Saison / Farmhouse Ale",6.5,61,6,"strange fellows","Strange Fellows Bayard Saison","British Columbia","Vancouver","Canada","Special",NA,"1345 Clark Dr, Vancouver, BC V5L 3K9, Canada",-123.0776691,49.2723686
+"Bire de Garde",6,66.28125,8,"strange fellows","Biere De Garde","British Columbia","Vancouver","Canada",NA,NA,"1345 Clark Dr, Vancouver, BC V5L 3K9, Canada",-123.0776691,49.2723686
+"Hefeweizen",4.5,58,8,"strange fellows","Strange Fellows Jongleur Belgian Wit","British Columbia","Vancouver","Canada",NA,NA,"1345 Clark Dr, Vancouver, BC V5L 3K9, Canada",-123.0776691,49.2723686
+"Black India Pale Ale",6.5,65,10,"strange fellows","Strange Fellows Nocturnum Dark IPA","British Columbia","Vancouver","Canada",NA,NA,"1345 Clark Dr, Vancouver, BC V5L 3K9, Canada",-123.0776691,49.2723686
+"Pale Ale",4.2,67.8,9,"strange fellows","Strange Fellows Talisman West Coast Pale Ale","British Columbia","Vancouver","Canada",NA,NA,"1345 Clark Dr, Vancouver, BC V5L 3K9, Canada",-123.0776691,49.2723686
+"Oud Bruin",NA,78.5,8,"yaletown","Oud Bruin","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"India Pale Ale",5.4,70.6,25,"yaletown","Brick and Beam IPA","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Brown Ale",NA,61.55,45,"yaletown","Downtown Brown","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Tripel",9,66.9,15,"yaletown","Le Nez Rouge","British Columbia","Vancouver","Canada","Winter",NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Pale Lager",4.8,50.8,28,"yaletown","Yaletown Mainland Lager","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"India Pale Ale",NA,67.5,18,"yaletown","Brick & Beam IPA","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Hefeweizen",NA,73.75,13,"yaletown","Hills Special Wheat","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Pale Lager",NA,62.5,6,"yaletown","Mainland Lager","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Pale Ale",NA,69,11,"yaletown","Nagila Pale Ale","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Stout",NA,65.5,9,"yaletown","Warehouse Stout","British Columbia","Vancouver","Canada",NA,NA,"1111 Mainland St, Vancouver, BC V6B 2T9, Canada",-123.1206204,49.2755161
+"Pale Ale",5.5,65.6870967741935,31,"yellow dog","Chase My Tail Pale Ale","British Columbia","Port Moody","Canada","Special",NA,"2817 Murray St #1, Port Moody, BC V3H 1X3, Canada",-122.8487,49.27863
+"India Pale Ale",7,72.5549295774648,71,"yellow dog","Play Dead IPA","British Columbia","Port Moody","Canada",NA,NA,"2817 Murray St #1, Port Moody, BC V3H 1X3, Canada",-122.8487,49.27863
+"Lambic & Geuze",5.7,59.6,6,"yellow dog","Yellow Dog Rollover Red Kettle Sour","British Columbia","Port Moody","Canada","Special",NA,"2817 Murray St #1, Port Moody, BC V3H 1X3, Canada",-122.8487,49.27863
+"Porter",NA,62.2615384615385,13,"yellow dog","Yellow Dog Shake a Paw Smoked Porter","British Columbia","Port Moody","Canada",NA,NA,"2817 Murray St #1, Port Moody, BC V3H 1X3, Canada",-122.8487,49.27863
+"Hefeweizen",4.9,60.2,7,"yellow dog","Yellow Dog Take A Walk Wit","British Columbia","Port Moody","Canada",NA,NA,"2817 Murray St #1, Port Moody, BC V3H 1X3, Canada",-122.8487,49.27863
+"Smoked",5,78.25,10,"yellow dog","Shake A Paw Smoked Porter","British Columbia","Port Moody","Canada",NA,NA,"2817 Murray St #1, Port Moody, BC V3H 1X3, Canada",-122.8487,49.27863
